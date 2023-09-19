@@ -1,6 +1,6 @@
 <h1 align="center">Hola! Vidyasagar VS</h1>
 <h3 align="center">A budding software professional from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar2354&label=Profile%20views&color=0e75b6&style=flat" alt="sagar2354" /> </p>
 
