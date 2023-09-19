@@ -1,4 +1,3 @@
-![MasterHead](https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif)
 <h1 align="center">Hola! Vidyasagar VS</h1>
 <h3 align="center">A budding software professional from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
