@@ -1,4 +1,4 @@
-<h1 align="center">Vanakkam!</h1>
+<h1 align="center">Welcome!</h1>
 <h1 align="center">Iam Vidyasagar VS,Nice to meet ya!</h1>
 <h3 align="center">A budding software professional from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
