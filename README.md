@@ -22,8 +22,9 @@ My work bridges research and applied data science — using evidence-based insig
 ### Featured Projects
 
 | Project | Description |
-|----------|--------------|------|
+
 | Engineer at KPIT Technologies Ltd | Machine learning for lane detection and target recognition |
+
 | Trademark Event Study | Impact of trademark activity on firm market cap |
 
 ---
