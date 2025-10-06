@@ -43,7 +43,7 @@ My work bridges research and applied data science — using evidence-based insig
 
 ### Connect
 
-[LinkedIn]([https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/vidyasagar-vs-9b1158190/)) · [Email](mailto:vidyasagar2354@gmail.com) · [GitHub](https://github.com/Sagar2354)
+[LinkedIn]([https://www.linkedin.com/in/vidyasagar-vs-9b1158190]) · [Email](mailto:vidyasagar2354@gmail.com) · [GitHub](https://github.com/Sagar2354)
 
 ---
 
