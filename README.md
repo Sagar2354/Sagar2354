@@ -1,39 +1,49 @@
-# 👋 Hi, I'm Vidyasagar
+<h1 align="center">VS Vidyasagar</h1>
 
-🚀 **Data Enthusiast | Analyst | Aspiring ML Researcher**
-
-Welcome to my GitHub!  
-I’m passionate about data-driven problem-solving, machine learning applications, and turning analytics into actionable insights.
-
----
-
-### 🧠 About Me
-- 🎓 Currently exploring **Data Science & Machine Learning**
-- 💡 Interested in **AI applications in business strategy**
-- 📈 Working on projects involving **HR Analytics**, **Event Studies**, and **Predictive Modeling**
-- 🌱 Learning advanced **Python**, **SQL**, and **R**
-- 📍 Based in India
+<p align="center">
+  <b>Data Analytics | Product Management | Cyber Security</b>
+</p>
 
 ---
 
-### 🧰 Tech Stack
-**Languages:** Python, R, SQL, HTML/CSS  
-**Tools & Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Power BI  
-**Version Control:** Git & GitHub  
+### About Me
+
+I’m a data enthusiast focused on **analytics**, **product management**, and **cyber security**.  
+My work bridges research and applied data science — using evidence-based insights to drive real-world decisions.
+
+- 📊 Engineer at KPIT Technologies Ltd - Machine learning for lane detection and target recognition. 
+- 📊 Ex-Data Analytics Intern at Honeywell Inc - Cloud Migration 
+- 📈 Thesis: *Trademark Activity, Product Launches, and Market Capitalization of firms*  
+- 💡 Interests: data-driven strategy, AI for business analytics  
+- 🧰 Tech Stack: Python, SQL, C++, ML
 
 ---
 
-### 📊 My GitHub Stats
-![Vidyasagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+### Featured Projects
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
----
-
-### 🌐 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN) • [Portfolio](https://YOUR_PORTFOLIO_LINK) • [Email](mailto:YOUR_EMAIL@example.com)
+| Project | Description |
+|----------|--------------|------|
+| Engineer at KPIT Technologies Ltd | Machine learning for lane detection and target recognition |
+| Trademark Event Study | Impact of trademark activity on firm market cap |
 
 ---
 
-> “Data is the new oil, but insight is the new gold.”
+### GitHub Insights
 
+<div align="center">
+  
+![Vidyasagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true)
+
+</div>
+
+---
+
+### Connect
+
+[LinkedIn]([https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/vidyasagar-vs-9b1158190/)) · [Email](mailto:vidyasagar2354@gmail.com) · [GitHub](https://github.com/Sagar2354)
+
+---
+
+<sub>“Data is the new oil, but insight is the new gold.”</sub>
