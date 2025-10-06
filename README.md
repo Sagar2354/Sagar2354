@@ -47,4 +47,4 @@ My work bridges research and applied data science — using evidence-based insig
 
 ---
 
-<sub>“Data is the new oil, but insight is the new gold.”</sub>
+<sub align="center">“Data is the new oil, but insight is the new gold.”</sub>
