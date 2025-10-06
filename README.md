@@ -32,10 +32,10 @@ My work bridges research and applied data science — using evidence-based insig
 ### GitHub Insights
 
 <div align="center">
-  
-![Vidyasagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true)
+![Sagar2354's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sagar2354&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar2354&layout=compact&theme=transparent&hide_border=true)
 
 </div>
 
