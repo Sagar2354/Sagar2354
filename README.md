@@ -1,50 +1,61 @@
-<h1 align="center">VS Vidyasagar</h1>
+# 👋 Hello, I'm VS Vidyasagar
 
-<p align="center">
-  <b>Data Analytics | Product Management | Cyber Security</b>
-</p>
+### **Data Engineer (Cloud & Analytics) | IIM Indore & SRM Alum**
 
----
-
-### About Me
-
-I’m a data enthusiast focused on **analytics**, **product management**, and **cyber security**.  
-My work bridges research and applied data science — using evidence-based insights to drive real-world decisions.
-
-- 📊 Engineer at KPIT Technologies Ltd - Machine learning for lane detection and target recognition. 
-- 📊 Ex-Data Analytics Intern at Honeywell Inc - Cloud Migration 
-- 📈 Thesis: *Trademark Activity, Product Launches, and Market Capitalization of firms*  
-- 💡 Interests: data-driven strategy, AI for business analytics  
-- 🧰 Tech Stack: Python, SQL, C++, ML
+I am a passionate **Data Engineer** with 2+ years of experience specializing in building scalable ETL/ELT pipelines, specifically within the **Automotive and Connected Vehicle** domains. I thrive on turning raw, complex binary data into high-value insights.
 
 ---
 
-### Featured Projects
+## 🚀 About Me
 
-| Project | Description |
-
-| Engineer at KPIT Technologies Ltd | Machine learning for lane detection and target recognition |
-
-| Trademark Event Study | Impact of trademark activity on firm market cap |
-
----
-
-### GitHub Insights
-
-<div align="center">
-
-![Sagar2354's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sagar2354&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar2354&layout=compact&theme=transparent&hide_border=true)
-
-</div>
+- 🛠️ **Currently:** Working at **KPIT** as an Associate Data Engineer, optimizing vehicle telemetry pipelines.
+- 🎓 **Education:** M.S. in Data Science and Management from **IIM Indore & IIT Indore** (2025); B.Tech in CSE from **SRM IST**.
+- ⚡ **Impact:** Reduced pipeline latency by **88%** (45s to 5s) and saved an estimated **$200K** in cloud costs through query optimization.
+- 🏆 **Achievements:** Recipient of the **High Flyer Award** for technical excellence and efficiency gains.
+- 🚴 **Off-duty:** You can find me cycling around Bellandur or exploring high-quality oud and honey-based fragrances.
 
 ---
 
-### Connect
+## 🛠️ Technical Toolkit
 
-[LinkedIn](https://www.linkedin.com/in/vidyasagar-vs-9b1158190) · [Email](mailto:vidyasagar2354@gmail.com) · [GitHub](https://github.com/Sagar2354)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python (PySpark, Pandas), SQL, Scala, LaTeX |
+| **Big Data** | Apache Spark, Delta Lake, Medallion Architecture, Hadoop, Hive |
+| **Cloud** | Azure Databricks, Azure Data Factory (Exposure to AWS) |
+| **Automotive** | CAN Bus, BLF Logs, Signal Decoding (DBC), V2C Protocols |
+| **Orchestration** | Apache Airflow, Jenkins, Git, CI/CD |
+| **Databases** | SQL Server, PostgreSQL, MySQL, Oracle |
 
 ---
 
-<p align="center"><sub>“Data is the new oil, but insight is the new gold.”</sub></p>
+## 📊 Key Highlights
+
+- **Software Defined Vehicles (SDV):** Built production-grade pipelines for high-frequency vehicle bus data.
+- **Data Quality:** Engineered validation frameworks that improved signal integrity from **80% to 99.8%**.
+- **Scalability:** Managed end-to-end IoT pipelines processing **100K+ records/day** using Medallion architecture.
+
+---
+
+## 📜 Certifications & Achievements
+
+- 🏅 **Databricks Lakehouse Fundamentals**
+- 🏅 **Azure Databricks & Spark SQL**
+- 🏅 **Jenkins Automation Specialist**
+- 🌟 **High Flyer Award** — 9x pipeline efficiency gain.
+
+---
+
+## 📫 Get in Touch
+
+- **LinkedIn:** [linkedin.com/in/vs-vidyasagar](https://www.linkedin.com/in/vs-vidyasagar-9b1158190/)
+- **Email:** [vs040403@gmail.com](mailto:vs040403@gmail.com)
+- **Location:** Bengaluru, India 📍
+
+---
+
+### 📈 GitHub Stats
+![Vidyasagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagar2354&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar2354&layout=compact&theme=radical)
+
+*"Building the data backbone for the future of mobility."*
