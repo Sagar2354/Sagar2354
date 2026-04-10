@@ -55,7 +55,6 @@ I am a passionate **Data Engineer** with 2+ years of experience specializing in 
 ---
 
 ### 📈 GitHub Stats
-![Vidyasagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagar2354&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar2354&layout=compact&theme=radical)
+![Vidyasagar's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sagar2354&theme=radical)
 
 *"Building the data backbone for the future of mobility."*
