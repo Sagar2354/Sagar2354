@@ -49,7 +49,7 @@ I am a passionate **Data Engineer** with 2+ years of experience specializing in 
 ## 📫 Get in Touch
 
 - **LinkedIn:** [linkedin.com/in/vs-vidyasagar](https://www.linkedin.com/in/vs-vidyasagar-9b1158190/)
-- **Email:** [vs040403@gmail.com](mailto:vs040403@gmail.com)
+- **Email:** [vidyasagar2354@gmail.com](mailto:vidyasagar2354@gmail.com)
 - **Location:** Bengaluru, India 📍
 
 ---
